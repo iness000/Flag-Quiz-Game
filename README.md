@@ -1,3 +1,3 @@
-# quizzo-app
+# Flag Quiz Game
 
-An Android-based mobile application for a quiz game regarding flags.
+An Android mobile application to quiz the player about flags of countries around the world.
